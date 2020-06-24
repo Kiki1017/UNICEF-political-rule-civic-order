@@ -1,6 +1,7 @@
-### Asian Barometer Survey, Wave 4 - all countries ###
-# http://www.asianbarometer.org/survey
-# for data, researcher is required to submit data request (http://www.asianbarometer.org/data/data-release)
+## Asian Barometer Survey, Wave 4 - all countries
+## http://www.asianbarometer.org/survey
+## for data, researcher is required to submit data request (http://www.asianbarometer.org/data/data-release)
+##########################################
 
 ## import file from SPSS file format to R
 #library(Hmisc)
