@@ -1,6 +1,7 @@
 ## Varieties of Democracy (V-Dem) data, Ver. 10 
 ## for liberal democracy and civil society
 ## https://www.v-dem.net/en/data/data-version-10/
+## 'Country-Year: V-Dem Core'
 ##########################################
 
 #### load packages and data ####
