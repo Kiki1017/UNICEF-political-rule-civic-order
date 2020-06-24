@@ -24,7 +24,7 @@ Asian Barometer Survey (Wave 4; application required): http://www.asianbarometer
 
 .xlsx file in "Data" is a high-level overview of the indices and variables created with the Asian Barometer Survey, in addition to survey background information (date of survey, sample size, weights).
 
-.R files in "R Code" provides the code used to clean, manipulate, and otherwise prepare the data for analysis and visualization.
+.R files in "R Code" provides the code used to clean, manipulate, and otherwise prepare the data for analysis and visualization. It also includes the code for data visualizations used in the report.
 
 .pdf and .csv files in "Tables and Figures" are the tables and figures produced for the report.
 
