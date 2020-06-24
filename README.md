@@ -11,7 +11,7 @@ Using data from the Varieties of Democracy’s country expert evaluations, this 
 
 # Data required for replication:
 
-Varities of Democracy (V-Dem) full data, version 10: https://www.v-dem.net/en/data/data-version-10/
+Varities of Democracy (V-Dem) 'Country-Year: V-Dem Core', version 10: https://www.v-dem.net/en/data/data-version-10/
 
 V-Dem pandemic backsliding data (version 2): https://www.v-dem.net/en/our-work/research-projects/pandemic-backsliding/
 
