@@ -9,7 +9,7 @@ What is the state of democracy today? The question of democratic backsliding and
 Using data from the Varieties of Democracy’s country expert evaluations, this report identifies regime types and the degree to which liberal democracy and a robust civil society have been achieved in select Asia Pacific countries since the beginning of the “Third Wave” of democratization (1989-2019). At the individual level, public opinion data from the most recent Asia Barometer (2014-2016) is used to identify a number of attitudes and preferences towards various characteristics of politics and society. Analysis also includes where public opinion and political institutions converge (or diverge) and where significant “youth” opinions differ from the overall population. Lastly, using Varieties of Democracy’s Pandemic Backsliding dataset from May 2020, this report explores the relationship between political order and how freedom-restricting emergency responses to the COVID-19 pandemic have been in the Asia Pacific.
 
 
-# Data required for replication:
+# Data required for replication
 
 Varities of Democracy (V-Dem) 'Country-Year: V-Dem Core', version 10: https://www.v-dem.net/en/data/data-version-10/
 
