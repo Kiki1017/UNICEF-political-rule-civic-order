@@ -1,6 +1,7 @@
 ## Figures and Tables ##
 ## corresponds to figures in report
 ## data from "VDem.R", "Asian_Barometer.R", and "Pandem.R"
+##########################################
 
 ## load packages ##
 library(wesanderson)
